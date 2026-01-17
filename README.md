@@ -25,41 +25,6 @@ LLaMA-based model (e.g., via HuggingFace Transformers or llama.cpp)
 Data Handling
 Optional logging, feedback collection, or prompt templates
 
-
-#  WOW FACTORS
-
-The Travel Planner Student provides powerful capabilities, including real-time itinerary adjustments in response to weather changes and travel disruptions, ensuring a hassle-free travel experience. 
-Key features:
--Dynamic itinerary updates based on live weather conditions and travel status.
--Personalized recommendations through natural language understanding powered by IBM Granite.
--Customized destination and activity suggestions based on user interests, budget, and trip length.
--Integrated access to maps, weather, and booking data for unified planning.
--Efficient serverless backend powered by IBM Cloud Functions.
-
-#  END USERS
-
--Solo travelers.
--Travel content creators and influencers.
--Travel companies providing personalized itineraries.
--Corporate professionals organizing multi-destination journeys.
--Scholars or researchers traveling for academic purposes.
-
-#  API REFERENCE AFTER DEPLOYMENT
-https://github.com/swatimali12/Ai-travel-planner-for-students/blob/main/s4.png
-
-#  DEPLOYMENT & PREVIEW
-https://github.com/swatimali12/Ai-travel-planner-for-students/blob/main/s5.png
-
-#  RESULTS
-https://github.com/swatimali12/Ai-travel-planner-for-students/blob/main/S1.png
-https://github.com/swatimali12/Ai-travel-planner-for-students/blob/main/s2.png
-
-# GITHUB LINK
-https://github.com/swatimali12/Ai-travel-planner-for-students.git
-
-#  IBM CERTIFICATIONS
-https://github.com/swatimali12/Ai-travel-planner-for-students/blob/main/Completion%20Certificate%20_%20SkillsBuild.pdf
-
 # Conclusion
 -The Travel Planner Student simplifies the complexities involved in trip planning.
 -Utilizing IBM Cloud AI services, it provides real-time, personalized, and adaptive travel solutions, enabling users to experience a seamlessly organized journey.
@@ -76,3 +41,4 @@ https://github.com/swatimali12/Ai-travel-planner-for-students/blob/main/Completi
 
 # Thank You
 "Ai-Travel-Planner_For-Students" 
+
